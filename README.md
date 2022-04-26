@@ -11,4 +11,5 @@
   -FIM ENQUANTO
  -FIM ENQUANTO
 FIM
-!(https://github.com/PabloRomeroDLM/programacao_exercicio_mediafinal/blob/main/FLUXOGRAMA.png)
+
+![isso é uma imagem](https://github.com/PabloRomeroDLM/programacao_exercicio_mediafinal/blob/main/FLUXOGRAMA.png)
