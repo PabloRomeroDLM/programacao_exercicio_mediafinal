@@ -12,3 +12,6 @@
  - FIM ENQUANTO
 - FIM
 
+
+
+![isso é uma imagem](https://github.com/PabloRomeroDLM/programacao_exercicio_mediafinal/blob/main/media%20final.png)
